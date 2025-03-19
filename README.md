@@ -10,10 +10,15 @@ This repository contains a project aimed at detecting fake news using a Bidirect
 
 
 Repository Contents
+
 *) Fake_News_Detector.ipynb: Jupyter Notebook detailing the data preprocessing steps, model architecture, training process, and evaluation metrics.
+
 *) fake_news_detector_model.h5: Trained BiGRU model saved in HDF5 format.
+
 *) tokenizer_Fake_or_True.pkl: Tokenizer object used to preprocess text data, saved as a pickle file.
+
 *) Real_Fake_Dataset: Directory containing the dataset used for training and testing the model.
+
 *) Fake_News_Detection.py: Python script providing a user-friendly interface to input news articles and receive predictions on their authenticity.
 
 
