@@ -25,22 +25,38 @@ Repository Contents
 
 
 Key Features
+
 *) Data Preprocessing: Utilizes pandas and numpy for data manipulation, including handling missing values, text cleaning, and tokenization.
+
 *) Model Architecture: Implements a Bidirectional GRU neural network using TensorFlow and Keras, designed to capture contextual information from text data effectively.
+
 *) Training and Evaluation: The model is trained on a labeled dataset and evaluated using metrics such as accuracy, precision, recall, and F1-score.
+
 *) User Interface: The Fake_News_Detection.py script allows users to input news articles and receive real-time predictions on whether the news is real or fake.
 
 
 
 
+
 Dependencies
+
 The project requires the following Python libraries:
+
 1. pandas
-2. numpy
-3. tensorflow
-4. keras
-5. scikit-learn
-6. nltk
+
+2. seaborn
+
+3. matplotlib
+
+4. numpy
+
+5. tensorflow
+
+6. keras
+
+7. scikit-learn
+
+8. nltk
 
 
 
